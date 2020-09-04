@@ -12,12 +12,13 @@ main {
 }
 
 .counter-box {
-    flex: 0 0 70%;
+    flex: 0 0 80%;
     text-align: center;
     border: 3px solid rgb(251, 255, 4);
     padding: 1rem;
     font-weight: bold;
-    background: rgba(85, 48, 10, 0.363);
+    background: url('./img/bg.png')center/cover no-repeat;
+    /*background: rgba(85, 48, 10, 0.363);*/
     box-shadow: 3px 3px 10px 10px black ;
 }
 
